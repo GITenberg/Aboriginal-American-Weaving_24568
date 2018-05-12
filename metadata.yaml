@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26586'
     url: http://www.gutenberg.org/2009/agents/26586
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24568#Aboriginal-American-Weaving
 gutenberg_bookshelf:
 - Crafts
 - Native America
